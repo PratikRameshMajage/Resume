@@ -1,11 +1,30 @@
 body{
     background-color: black;
-    color: blanchedalmond;
+    color: white;
 }
-p{
-    font-size: 20px;
+img{
+    padding: 10px;
+}
+h2{
+    color: rgb(236, 198, 255);
+    font-weight: bold;
+}
+h3{
+    color: rgb(185, 190, 255);
+    font-weight: bold;
 }
 a{
-    color: rgb(142, 249, 255);
+    color: white;
     text-decoration: none;
+    font-weight: bold;
 }
+.a{
+    color: rgb(180, 255, 253);
+}
+footer{
+    font-weight: bold;
+}
+.li {
+    list-style-type: "🔘";
+  }
+  
